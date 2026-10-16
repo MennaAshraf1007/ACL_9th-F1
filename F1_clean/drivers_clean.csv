@@ -369,7 +369,7 @@ driverId,drivers_nationality,age
 368,Rhodesian,105
 369,South African,87
 370,British,86
-371,Canadian,104
+371,Canadian,105
 372,Canadian,91
 373,British,90
 374,British,89
@@ -520,7 +520,7 @@ driverId,drivers_nationality,age
 518,American,113
 519,American,108
 520,American,100
-521,American,106
+521,American,107
 522,American,102
 523,American,107
 524,American,93
@@ -568,7 +568,7 @@ driverId,drivers_nationality,age
 566,American,103
 567,Brazilian,88
 568,Uruguayan,103
-569,British,91
+569,British,92
 570,British,93
 571,British,105
 572,American,97
@@ -665,7 +665,7 @@ driverId,drivers_nationality,age
 663,British,110
 664,British,106
 665,British,104
-666,British,107
+666,British,108
 667,American,109
 668,French,109
 669,Thai,112
@@ -749,7 +749,7 @@ driverId,drivers_nationality,age
 747,British,116
 748,Uruguayan,120
 749,British,126
-750,German,126
+750,German,127
 751,German,104
 752,German,110
 753,German,106
@@ -809,7 +809,7 @@ driverId,drivers_nationality,age
 807,German,39
 808,Russian,42
 810,Brazilian,42
-811,Brazilian,42
+811,Brazilian,43
 812,Indian,42
 813,Venezuelan,41
 814,British,40
